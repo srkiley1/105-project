@@ -9032,3 +9032,6 @@ text-align: justify;
 .skiley-advice h1 {
   text-align: center;
 }
+body {
+  background: blue;
+}
